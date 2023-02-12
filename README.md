@@ -70,11 +70,11 @@
 （1）电影类型词云
 ![image](https://github.com/sjh126/movie_bd/blob/pic-mv/wordcloud1.png)
 （2）影评词云
-![image](https://github.com/sjh126/movie_bd/blob/pic-mv/wordcloud2.png)
+![image](https://github.com/sjh126/movie_bd/blob/pic-mv/wordcloud2.jpg)
 
 #### 6.2.3 电影类型的数量及所占比例的变化
 ![image](https://github.com/sjh126/movie_bd/blob/pic-mv/proportion1.png)
-![image](https://github.com/sjh126/movie_bd/blob/pic-mv/proportion2.jpg)
+![image](https://github.com/sjh126/movie_bd/blob/pic-mv/proportion2.png)
 从图中可以看出历年来喜剧和爱情种类的电影占比较大，虽然有所波动但仍旧占据大头；惊悚类电影随着时间过度占比逐渐减小，不再受大众喜爱；动画和奇幻题材的电影随着时间变化占比有所增加，也能够看出国产动画电影的进步；其它题材的电影虽然有所波动而且变化不够明显，但仍是重要的电影类型组成。
 
 #### 6.2.4 kmeans聚类结果降维展示
